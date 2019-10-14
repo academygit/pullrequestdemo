@@ -1,1 +1,1 @@
-This project is an pull request exercise for Academy consultants.
+This project is an pull request exercise for Academy consultants, yey!
