@@ -1,4 +1,5 @@
 [
-  {"name": "Anonymous academy consultant", "quote":  "I love pull request!"},
-  {"name": "Samu", "quote":  "Git + AWS <3!"}
+  { "name": "Anonymous academy consultant", "quote": "I love pull request!" },
+  { "name": "Samu", "quote": "Git + AWS <3!" },
+  { "name": "Emma", "quote": "Confusion will be my epitah" }
 ]
